@@ -8,7 +8,7 @@ As an employee with the busy schedle i want to add important events to a daily p
 ## Usage
 - This workday calander display all 12 hours of the day 6AM-6PM.
 - On the top page it displays current day and date
-- Each time block is color coded to tell weather it happens on the past(), present(), or in the future().
+- Each time block is color coded to tell weather it happens on the past(gray), present(red), or in the future(green).
 - Each time block has an input field and a save button for user to store thier schedled event.
 - when it is save it will store in the local storage.
 - This work day schedler is desktop and mobile compatible.
