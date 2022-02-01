@@ -6,7 +6,7 @@ This is work day schedler fronted end app that allows user to write their schedl
 ## User Story
 As an employee with the busy schedle i want to add important events to a daily planner. So that i can manage my time effectively.
 ## Usage
-- This workday calander display all 12 hours of the day 6AM-6PM.
+- This workday calander display all 8 hours of the day 8AM-5PM.
 - On the top page it displays current day and date
 - Each time block is color coded to tell weather it happens on the past(gray), present(red), or in the future(green).
 - Each time block has an input field and a save button for user to store thier schedled event.
@@ -19,6 +19,7 @@ As an employee with the busy schedle i want to add important events to a daily p
 - Bootstrap 
 - jQuery
 ## Demo
+![](assets/images/Work-Day-Scheduler-Appdemo(1).webm)
 
 ## Contributor
-- Samuel g Hagos
+- Samuel g Hagos 
