@@ -19,7 +19,7 @@ As an employee with the busy schedle i want to add important events to a daily p
 - Bootstrap 
 - jQuery
 ## Demo
-![](assets/images/Work-Day-Scheduler-Appdemo(1).webm)
+![](assets/images/05-third-party-apis-homework-demo.gif)
 
 ## Contributor
 - Samuel g Hagos 
